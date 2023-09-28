@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AuricX
 - 👀 I’m interested in programming and game development.
-- 🌱 I’m currently learning C# and Unity Engine.
+- 🌱 I’m currently learning React and Godot Engine.
 - 📫 How to reach me: auricx.business@gmail.com
 
 <!---

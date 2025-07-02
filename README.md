@@ -1,8 +1,3 @@
-# Hi there, I'm Razi Chaaban
-
-A passionate Full-Stack Developer from Akkar, Lebanon with hands-on experience in building web, mobile, and desktop applications (including macOS). I’m committed to clean code, modular design, and effective teamwork — with a strong focus on structured project architecture.
-
----
 
 ## About Me
 

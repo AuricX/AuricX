@@ -57,5 +57,5 @@ A Bluetooth-controlled Arduino vehicle, modeled in FreeCAD and powered by 3D-pri
 ## Contact
 
 Email: [razi.chaaban@gmail.com](mailto:razi.chaaban@gmail.com)  
-LinkedIn: [linkedin.com/in/auric-x](https://www.linkedin.com/in/razi-chaaban/)  
+LinkedIn: [linkedin.com/in/razi-chaaban](https://www.linkedin.com/in/razi-chaaban/)  
 GitHub: [github.com/AuricX](https://github.com/AuricX)

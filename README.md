@@ -1,61 +1,22 @@
+# Razi Chaaban
 
-## About Me
+Software engineer at [DriveTerra](https://github.com/DriveTerra) (Dubai, remote), building the backend and IoT side of an electric-motorbike fleet and its battery-swap stations. B.S. Computer Science, GPA 3.95.
 
-- BSc in Computer Science – Lebanese International University (GPA 3.9)  
-  • 1st place in Robotics competition  
-  • 3rd place in Mobile App Development
+**Node.js · TypeScript · Java/Spring Boot · PostgreSQL · Redis · RabbitMQ · React · Docker · IoT device protocols (TCP, Modbus-RTU, CAN)**
 
-- Cybersecurity enthusiast  
-  • Completed a Capture The Flag (CTF) training program  
-  • Participated in Lebanon's largest cybersecurity competition (Semicolon Academy)
+## Work
 
-- Self-driven learner  
-  • Taught myself React and built full-stack applications  
-  • Independently studied EV systems, including battery management and hybrid powertrains
+- Rewrote the work-order system across a Node.js/TypeORM backend and 2 React dashboards: 6 modules merged into 1, 17 endpoints, 6,275 lines removed net
+- Shipped server-side sorting across 4 repos: 48 tables, 142 columns, 381 tests against PostgreSQL
+- Hardened auth and device I/O on a Java/Spring Boot IoT platform across 148 files (Redis sessions, Netty off the event loop), deployed with 0 restarts
+- Led an AI-assisted Go rewrite of the station platform, load-tested at 1,000 cabinets and 2,000 batteries: zero drops, p99 36–38 ms
 
----
+DriveTerra code is private.
 
-## Tech Stack
+## Open source
 
-**Frontend**  
-React · HTML · CSS · TailwindCSS · Shadcn
-
-**Backend**  
-Node.js · Express.js · PostgreSQL · Electron
-
-**Tools & Dev Workflow**  
-Git · GitHub Projects · VS Code · Postman
-
-**Other**  
-REST APIs · JWT Auth · Command Line Interfaces
-
----
-
-## Featured Projects
-
-### QuizzBuzz – Quiz Management Platform  
-A quiz system with user authentication, instructor-controlled content creation, and real-time scoring  
-**Tech Used:** PHP · MySQL · JavaScript · Bootstrap  
-[View Repository](https://github.com/AuricX/QuizzBuzz)
-
-### Bluetooth-Controlled Car – Arduino Project  
-A Bluetooth-controlled Arduino vehicle, modeled in FreeCAD and powered by 3D-printed components  
-• Mobile interface with HC-05 module and L293D motor driver  
-• Powered by three 18650 lithium batteries  
-**Tech Used:** Arduino · C/C++ · Tinkercad · 3D Printing
-
----
-
-## Interests
-
-- Working on EV systems and performance enhancement  
-- Building Arduino-based DIY electronics  
-- Refactoring legacy circuits and experimenting with side projects
-
----
+**[Basalt DB Studio](https://github.com/Chadgeaptuni/Basalt-DB-Studio)**: cross-platform desktop SQL client for PostgreSQL, MySQL and SQLite, built with Rust (Tauri v2) and Svelte 5. I lead development: query cancellation and timeouts across 3 engines, SSH tunneling, OS-keychain credentials, 97 backend tests against live databases.
 
 ## Contact
 
-Email: [razi.chaaban@gmail.com](mailto:razi.chaaban@gmail.com)  
-LinkedIn: [linkedin.com/in/razi-chaaban](https://www.linkedin.com/in/razi-chaaban/)  
-GitHub: [github.com/AuricX](https://github.com/AuricX)
+razi.chaaban@gmail.com · [LinkedIn](https://www.linkedin.com/in/razi-chaaban/)
